@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background-color:lightgoldenrodyellow
+}
+
+nav {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+section.principal {
+    background-color: orange;
+}
+footer {
+    background-color: blue;
+    text-align: center;
+}
